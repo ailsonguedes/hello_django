@@ -1,0 +1,10 @@
+Para Práticar
+
+- No mesmo projeto, acrescente uma rota que aceita na URL mais dois parâmetros do tipo Internationalization
+  e retorne a soma destes dois parâmetros.
+
+- A URL deverá ficar da seguinte forma: /soma/10/20/
+
+- Com o exemplo acima, a aplicação deverá retornar a soma de 10 e 20.
+
+- Criar rotas também para multiplicação, divisão e subtração
